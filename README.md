@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KfirCohen-PyLab
 - 👀 I’m interested in automation scripts and tools 
-- 🌱 I’m currently learning CS in the Open University Of Israel
+- 🌱 I’m currently learning Software Engineering in Braude College
 - 📫 How to reach me Email address: kfirn13@gmail.com
 
 <!---
