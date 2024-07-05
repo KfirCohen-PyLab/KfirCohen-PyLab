@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KfirCohen-PyLab
-- 👀 I’m interested in automation scripts and tools 
+- 👀 I’m interested in  
 - 🌱 I’m currently learning Software Engineering in Braude College
 - 📫 How to reach me Email address: kfirn13@gmail.com
 
